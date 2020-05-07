@@ -178,4 +178,6 @@ client.on("message", async message => {
 client.login("NzA3NDU4NDAzMzQwOTEwNjYz.XrJGAg.r9MkIrx5tThMR4dlAcg4hnclaqE") //tokeni yaz işte
 
 process.env = {}
-process.env.TOKEN = "NzA3NDU4NDAzMzQwOTEwNjYz.XrJGAg.r9MkIrx5tThMR4dlAcg4hnclaqE";
+process.env.TOKEN = "TOKENINIZ BURAYA";
+
+//Loz 'Bey Sunar
